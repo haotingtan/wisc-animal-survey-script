@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.streamlit/secrets.toml
+source/*.xlsx
+source/*.xlsm
+source/*.csv
+source/*.pdf
